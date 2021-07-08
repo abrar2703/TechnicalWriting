@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="tools">
+    <title>Tools</title>
+    <shortdesc>In the coating room during production, only required process tools are allowed.
+        Required tools include the following:</shortdesc>
+    <conbody>
+        <table id="table_p4h_hjw_2qb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry><b>Tool Name</b></entry>
+                        <entry><b>Specifications</b></entry>
+                    </row>
+                    <row>
+                        <entry>Allen wrenches</entry>
+                        <entry>1/8", 5/32", 3/16", 7/32", and 1/4"</entry>
+                    </row>
+                    <row>
+                        <entry>Open end/box wrenches</entry>
+                        <entry>9/16", 3/4", 13/16", 7/8"</entry>
+                    </row>
+                    <row>
+                        <entry>SS rulers/straight edge</entry>
+                        <entry>6" and 12"</entry>
+                    </row>
+                    <row>
+                        <entry>Straight and Phillips screw driver</entry>
+                        <entry>-</entry>
+                    </row>
+                    <row>
+                        <entry>3 pairs of industrial steel scissors</entry>
+                        <entry>-</entry>
+                    </row>
+                    <row>
+                        <entry>Black bold marking pens</entry>
+                        <entry>-</entry>
+                    </row>
+                    <row>
+                        <entry>Razor knives</entry>
+                        <entry>-</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

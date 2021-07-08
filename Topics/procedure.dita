@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="procedure">
+    <title>Procedure</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p>Procedures and responsibilities related to machine and material preparation prior to a
+            coating run and to cleanup after a coating run are discussed in these stages:</p>
+        <ol id="ol_kmw_fjw_2qb">
+            <li>Procurement of Resource</li>
+            <li>Pre-setup for a coating run</li>
+        </ol>
+        <p> Cleaning &amp; verification</p>
+    </conbody>
+</concept>

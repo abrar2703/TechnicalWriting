@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="overview" path="overview.html"/>
+   <appContext helpID="introduction" path="introduction.html"/>
+   <appContext helpID="contents" path="contents.html"/>
+   <appContext helpID="standard_operating_procedure_kk_1208_25"
+               path="standard_operating_procedure_kk_1208_25.html"/>
+   <appContext helpID="purpose" path="out/purpose.html"/>
+   <appContext helpID="scope_0" path="scope_0.html"/>
+   <appContext helpID="responsibility" path="responsibility.html"/>
+   <appContext helpID="accountability" path="accountability.html"/>
+   <appContext helpID="constraint" path="constraint.html"/>
+   <appContext helpID="procedure" path="procedure.html"/>
+   <appContext helpID="procurement_of_the_resource"
+               path="procurement_of_the_resource.html"/>
+   <appContext helpID="required_operators" path="required_operators.html"/>
+   <appContext helpID="tools" path="tools.html"/>
+   <appContext helpID="dress_code_of_operators" path="dress_code_of_operators.html"/>
+   <appContext helpID="pre_setup_or_a_coating_run"
+               path="pre_setup_or_a_coating_run.html"/>
+   <appContext helpID="pre_setup" path="pre_setup.html"/>
+   <appContext helpID="batch_document" path="batch_document.html"/>
+   <appContext helpID="release_liners" path="release_liners.html"/>
+   <appContext helpID="validation_of_batch_documents"
+               path="validation_of_batch_documents.html"/>
+   <appContext helpID="preparation_of_pump_and_slot_die_setup"
+               path="preparation_of_pump_and_slot_die_setup.html"/>
+   <appContext helpID="coater_startup_and_shutdown_procedure"
+               path="coater_startup_and_shutdown_procedure.html"/>
+   <appContext helpID="cleaning_and_verification"
+               path="cleaning_and_verification.html"/>
+   <appContext helpID="cleaning_of_slot_die" path="cleaning_of_slot_die.html"/>
+   <appContext helpID="cleaning_of_zenith_pump" path="cleaning_of_zenith_pump.html"/>
+   <appContext helpID="cleaning_of_pump_trunions_and_all_swagelok_fittings"
+               path="cleaning_of_pump_trunions_and_all_swagelok_fittings.html"/>
+   <appContext helpID="cleaning_of_contact_surfaces_and_tools"
+               path="cleaning_of_contact_surfaces_and_tools.html"/>
+   <appContext helpID="verification" path="verification.html"/>
+</map>

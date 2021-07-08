@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="preparation_of_pump_and_slot_die_setup">
+    <title>Preparation of pump and slot die setup</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Preparation of pump and slot die setup are:</p>
+        <ol id="ol_e3m_4pw_2qb">
+            <li>The Mixing room personnel and a "Spill" team will make all plumbing connections to
+                the Zenith Delivery pumps. They also deliver the slurry mixing vessels to the
+                Coating room </li>
+            <li>They will stay in the Coating room (prepared as a "spill" team) until the Operators
+                have wetted the plumbing loop and Zenith Delivery pumps safely.</li>
+            <li>the Coater Operators will mount and adjust the Slot Die and Zenith Delivery pumps
+                onto the Coater.  </li>
+        </ol>
+        <table id="table_f3m_4pw_2qb">
+            <tgroup cols="2">
+                <tbody>
+                    <row>
+                        <entry><b>Operator role</b></entry>
+                        <entry>
+                            <p>Role of the Coater Operators is to mount and adjust the Slot Die and
+                                Zenith Delivery pumps onto the Coater. </p>
+                            <p><b>Note:</b></p>
+                            <p>The Operators are NOT responsible for bringing the "Slurry" (coating
+                                liquid) from the mixing room into the Coating room. </p>
+                            <p> </p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

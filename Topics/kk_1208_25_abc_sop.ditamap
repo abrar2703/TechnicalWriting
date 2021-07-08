@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>KK-1208-25-ABC-SOP</title>
+    <topicref href="overview.dita">
+        <topicref href="introduction.dita"/>
+        <topicref href="contents.dita"/>
+    </topicref>
+    <topicref href="standard_operating_procedure_kk_1208_25.dita">
+        <topicref href="out/purpose.dita"/>
+        <topicref href="scope_0.dita"/>
+        <topicref href="responsibility.dita"/>
+        <topicref href="accountability.dita"/>
+        <topicref href="constraint.dita"/>
+        <topicref href="procedure.dita"/>
+    </topicref>
+    <topicref href="procurement_of_the_resource.dita">
+        <topicref href="required_operators.dita"/>
+        <topicref href="tools.dita"/>
+        <topicref href="dress_code_of_operators.dita"/>
+    </topicref>
+    <topicref href="pre_setup_or_a_coating_run.dita">
+        <topicref href="pre_setup.dita"/>
+        <topicref href="batch_document.dita"/>
+        <topicref href="release_liners.dita"/>
+        <topicref href="validation_of_batch_documents.dita"/>
+        <topicref href="preparation_of_pump_and_slot_die_setup.dita"/>
+        <topicref href="coater_startup_and_shutdown_procedure.dita"/>
+    </topicref>
+    <topicref href="cleaning_and_verification.dita">
+        <topicref href="cleaning_of_slot_die.dita"/>
+        <topicref href="cleaning_of_zenith_pump.dita"/>
+        <topicref href="cleaning_of_pump_trunions_and_all_swagelok_fittings.dita"/>
+        <topicref href="cleaning_of_contact_surfaces_and_tools.dita"/>
+        <topicref href="verification.dita"/>
+    </topicref>
+</map>

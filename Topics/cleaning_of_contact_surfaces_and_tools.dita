@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cleaning_of_contact_surfaces_and_tools">
+    <title>Cleaning of Contact Surfaces and Tools</title>
+    <conbody>
+        <p>
+            <div><p>Any Rolls, machine areas or components, and tools that have come in contact
+                    should be cleaned using an appropriate cleaning solution (solvent, alcohol,
+                    water, ...) for the coating liquid that was used. </p><p>Pay more attention to
+                    the following product contact parts:</p><ol id="ol_q12_zpw_2qb">
+                    <li>The area underneath the Slot Die. </li>
+                    <li>All Rolls that form the web path from the Primary Unwind to the Rewind
+                        (including the Idler Rolls in the Dryer).</li>
+                    <li>All tools that have been used.</li>
+                </ol> Determine and inspect All of the obvious places that might come into contact
+                with the coating liquid have been cleaned, all other machine surfaces should be
+                wiped and cleaned as well. </div>
+        </p>
+    </conbody>
+</concept>

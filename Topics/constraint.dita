@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="constraint">
+    <title>Constraint</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p>This document does not provide detailed information regarding how to operate the C/D/L,
+            as this is covered in detail by the Operator Instructions (document KK-1208-03).</p>
+    </conbody>
+</concept>

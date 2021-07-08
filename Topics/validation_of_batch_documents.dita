@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="validation_of_batch_documents">
+    <title>Validation of Batch Documents</title>
+    <conbody>
+        <p>
+            <div>
+                <p>Steps followed in Validation of Batch document are:</p>
+                <table id="table_ahb_kpw_2qb">
+                    <tgroup cols="2">
+                        <tbody>
+                            <row>
+                                <entry><ph id="_fs_gPNFa3MHk66pZg4npfhSA_1_5_0">Step</ph></entry>
+                                <entry>Action</entry>
+                            </row>
+                            <row>
+                                <entry>1</entry>
+                                <entry>On entering the coating room for a production run, both
+                                    operators will review batch documents, make sure that all C/D/L
+                                    parameters are set according to the batch documents provided by
+                                    the production supervisor. </entry>
+                            </row>
+                            <row>
+                                <entry>2</entry>
+                                <entry>Both operators will verify that the materials and process to
+                                    determine which side (In or Out) of the Web Release liner are
+                                    correct and clear then both operators will sign the batch
+                                    documents so that both operators assume responsibility for the
+                                    accuracy of all information.</entry>
+                            </row>
+                            <row>
+                                <entry>3</entry>
+                                <entry>If there are any discrepancies, the operators will not
+                                    proceed with the batch, and the discrepancies will be reported
+                                    to the production supervisor immediately.</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+                <note id="note_ml4_lpw_2qb">The explanation above is based on our experience with
+                    typical products and typical materials.</note>
+            </div>
+        </p>
+    </conbody>
+</concept>

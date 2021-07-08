@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="pre_setup_or_a_coating_run">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="pre_setup_or_a_coating_run">
     <title>Pre-setup or a coating run</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <conbody>
+        <p>A properly trained person (other than the operators) should perform a "wipe test" in
+            several different locations to verify that cleaning has been done properly. After it has
+            been verified that cleaning has been done properly, the C/D/L will be ready for the next
+            batch. </p>
+    </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="pre_setup">
+    <title>Pre-Setup</title>
+    <conbody>
+        <p>In this stage we discuss how Machine and material preparations performed prior to a
+            coating run.</p>
+        <p>Operator has to perform these steps:</p>
+        <ul id="ul_kcl_mjw_2qb">
+            <li>Validation of Batch document </li>
+            <li>Preparation of pump sand slot die setup</li>
+            <li>Coater Startup and Shutdown Procedure</li>
+        </ul>
+        <p></p>
+    </conbody>
+</concept>

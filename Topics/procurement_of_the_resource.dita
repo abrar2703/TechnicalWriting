@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="procurement_of_the_resource">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="procurement_of_the_resource">
     <title>Procurement of the Resource</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <conbody>
+        <p>sac</p>
+    </conbody>
+</concept>

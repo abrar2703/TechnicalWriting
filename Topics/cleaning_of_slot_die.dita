@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cleaning_of_slot_die">
+    <title>Cleaning of Slot Die</title>
+    <conbody>
+        <p>Process of cleaning slot Die:</p>
+        <table id="table_qk3_vpw_2qb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1" colwidth="1*"/>
+                <colspec colnum="2" colname="col2" colwidth="13.29*"/>
+                <tbody>
+                    <row>
+                        <entry>Stage</entry>
+                        <entry>Description</entry>
+                    </row>
+                    <row>
+                        <entry>1</entry>
+                        <entry>The Slot Die Top Jaw and the Slot Die Shim should be removed for
+                            cleaning and the Slot Die Bottom Jaw will be left in place.</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>The Slot Die Top Jaw, Shim and Slot Die Bottom Jaw should be cleaned
+                            separately by using an appropriate cleaning solution (solvent, alcohol,
+                            water, ...) for the coating liquid that was used</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>During this process, the Slot Die Top Jaw should be inspected for
+                            scratches or dings on the lips and on the mating surfaces. If necessary,
+                            have it refinished / reground.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p><b>Warning:</b></p>
+        <ul id="ul_rk3_vpw_2qb">
+            <li>Don’t touch the slot die with any metal objects when swapping / cleaning, which
+                creates scratches and dings</li>
+        </ul>
+        <p> Don’t touch the top jaw with the bottom jaw and vice versa.</p>
+    </conbody>
+</concept>

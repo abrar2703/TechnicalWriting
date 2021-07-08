@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="overview">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview">
     <title>Overview</title>
-    <body>
+    <shortdesc></shortdesc>
+    <conbody>
         <p></p>
-    </body>
-</topic>
+    </conbody>
+</concept>

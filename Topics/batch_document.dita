@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="batch_document">
+    <title>Batch Document</title>
+    <conbody>
+        <p>Batch document includes a list of all materials required for the batch and provides clear
+            instructions for how the Operator should determine which side of the web coating should
+            be applied to. </p>
+        <p></p>
+    </conbody>
+</concept>

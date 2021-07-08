@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="coater_startup_and_shutdown_procedure">
+    <title>Coater Startup and Shutdown Procedure</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>ABC establish procedures for</p>
+        <ol id="ol_btk_rpw_2qb">
+            <li>Starting the C/D/L, heating up the dryer, threading web, priming the plumbing from
+                the mixing vessel to the Pump and from the Pump to the Slot Die, and finally,
+                beginning coating. </li>
+            <li>Shutting down the C/D/L and leaving it in a state so that it can easily be restarted
+                for the next batch. </li>
+            <li>For taking samples, and for periodically recording actual process values to verify
+                that, no important process values have deviated from the setpoints listed on the
+                batch documents provided by the Production Supervisor. </li>
+        </ol>
+        <p>After preliminary trials have been performed to establish exactly how ABC will be
+            operating the machine, it will probably be helpful to write a more concise startup
+            procedure.</p>
+    </conbody>
+</concept>

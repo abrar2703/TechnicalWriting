@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="verification">
+    <title>Verification</title>
+    <conbody>
+        <p>A properly trained person (other than the operators) should perform a "wipe test" in
+            several different locations to verify that cleaning has been done properly. After it has
+            been verified that cleaning has been done properly, the C/D/L will be ready for the next
+            batch. </p>
+    </conbody>
+</concept>

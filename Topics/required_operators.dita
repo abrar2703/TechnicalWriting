@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="required_operators">
+    <title>Required Operators</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p>A minimum of two Operators will be required for C/D/L (Coater) Start Up and for
+            completion of a Production batch. Three Operators may be necessary when Operators are
+            inexperienced.</p>
+        <p> Coating should be continued through lunch, in which case one operator would remain in
+            the Coating room and one operator will take a lunch break. </p>
+    </conbody>
+</concept>
